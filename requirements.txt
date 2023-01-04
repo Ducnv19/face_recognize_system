@@ -1,0 +1,11 @@
+opencv-python
+h5py
+Pillow
+requests
+psutil
+imageio
+tensorflow
+keras
+numpy
+imutils
+tk

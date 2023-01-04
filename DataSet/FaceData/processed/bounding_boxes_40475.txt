@@ -1,0 +1,30 @@
+Dataset/FaceData/processed\Manh\manh (3).png 442 249 700 563
+Dataset/FaceData/processed\Manh\manh (18).png 434 237 676 547
+Dataset/FaceData/processed\Manh\manh (8).png 476 236 732 559
+Dataset/FaceData/processed\Manh\manh (11).png 424 227 664 522
+Dataset/FaceData/processed\Manh\manh (22).png 465 243 719 560
+Dataset/FaceData/processed\Manh\manh (7).png 414 236 663 550
+Dataset/FaceData/processed\Manh\manh (2).png 432 240 693 567
+Dataset/FaceData/processed\Manh\manh (9).png 385 248 611 547
+Dataset/FaceData/processed\Manh\manh (20).png 434 263 696 588
+Dataset/FaceData/processed\Manh\manh (21).png 471 239 728 568
+Dataset/FaceData/processed\Manh\manh (15).png 473 224 701 493
+Dataset/FaceData/processed\Manh\manh (6).png 441 241 684 554
+Dataset/FaceData/processed\Manh\manh (19).png 446 271 697 575
+Dataset/FaceData/processed\Manh\manh (13).png 441 228 672 491
+Dataset/FaceData/processed\Manh\manh (5).png 452 249 708 565
+Dataset/FaceData/processed\Manh\manh (12).png 431 227 665 502
+Dataset/FaceData/processed\Manh\manh (10).png 368 239 605 545
+Dataset/FaceData/processed\Manh\manh (14).png 399 253 642 554
+Dataset/FaceData/processed\Manh\manh (4).png 474 248 727 564
+Dataset/FaceData/processed\Manh\manh (17).png 459 220 691 488
+Dataset/FaceData/processed\Manh\manh (1).png 476 242 727 557
+Dataset/FaceData/processed\Manh\manh (16).png 475 239 717 546
+Dataset/FaceData/processed\Hai\WIN_20221011_10_47_56_Pro.png 630 191 844 437
+Dataset/FaceData/processed\Hai\WIN_20221011_10_48_02_Pro.png 631 313 812 534
+Dataset/FaceData/processed\Hai\WIN_20221011_10_47_52_Pro.png 628 181 827 424
+Dataset/FaceData/processed\Hai\WIN_20221011_10_47_49_Pro.png 633 105 890 418
+Dataset/FaceData/processed\Hai\WIN_20221011_10_47_38_Pro.png 626 98 887 421
+Dataset/FaceData/processed\Hai\WIN_20221011_10_48_05_Pro.png 580 44 909 454
+Dataset/FaceData/processed\Hai\WIN_20221011_10_47_47_Pro.png 502 102 770 414
+Dataset/FaceData/processed\Hai\WIN_20221011_10_47_54_Pro.png 569 199 780 434

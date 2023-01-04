@@ -1,0 +1,10 @@
+Dataset/FaceData/processed\Duc\WIN_20221130_09_28_23_Pro.png 559 275 813 608
+Dataset/FaceData/processed\Duc\WIN_20221130_09_28_24_Pro.png 524 285 795 623
+Dataset/FaceData/processed\Duc\WIN_20221130_09_28_25_Pro.png 600 291 840 611
+Dataset/FaceData/processed\Duc\WIN_20221130_09_28_26_Pro.png 577 272 822 577
+Dataset/FaceData/processed\Duc\WIN_20221130_09_28_28_Pro (2).png 577 294 835 638
+Dataset/FaceData/processed\Duc\WIN_20221130_09_28_28_Pro.png 562 295 820 643
+Dataset/FaceData/processed\Duc\WIN_20221130_09_28_29_Pro.png 530 275 795 617
+Dataset/FaceData/processed\Duc\WIN_20221130_09_28_30_Pro.png 561 274 825 619
+Dataset/FaceData/processed\Duc\WIN_20221130_09_28_31_Pro.png 557 283 817 642
+Dataset/FaceData/processed\Duc\WIN_20221130_09_28_32_Pro.png 559 268 820 607

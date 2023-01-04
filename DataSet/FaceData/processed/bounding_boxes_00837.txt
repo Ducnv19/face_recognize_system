@@ -1,0 +1,10 @@
+Dataset/FaceData/processed\Duc\user.1.45.png 57 0 423 450
+Dataset/FaceData/processed\Duc\user.1.46.png 46 10 398 450
+Dataset/FaceData/processed\Duc\user.1.47.png 57 0 408 446
+Dataset/FaceData/processed\Duc\user.1.48.png 66 30 385 427
+Dataset/FaceData/processed\Duc\user.1.49.png 55 22 381 434
+Dataset/FaceData/processed\Duc\user.1.50.png 46 10 396 450
+Dataset/FaceData/processed\Duc\user.1.51.png 64 0 420 450
+Dataset/FaceData/processed\Duc\user.1.52.png 62 0 424 450
+Dataset/FaceData/processed\Duc\user.1.53.png 4 0 450 450
+Dataset/FaceData/processed\Duc\user.1.54.png 43 0 428 450

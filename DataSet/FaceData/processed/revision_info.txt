@@ -1,0 +1,7 @@
+arguments: src/align_dataset_mtcnn.py Dataset/FaceData/raw Dataset/FaceData/processed --image_size 160 --margin 32 --random_order --gpu_memory_fraction 0.25
+--------------------
+tensorflow version: 2.10.0
+--------------------
+git hash: git rev-parse HEAD: The system cannot find the file specified
+--------------------
+git diff HEAD: The system cannot find the file specified
